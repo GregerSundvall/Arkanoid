@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (build\Debug\) contains files shared from another project (FutureGames_SDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Projectile.cpp
+E:\geezer\code\C++\Arkanoid\src\Projectile.cpp(43,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\geezer\code\C++\Arkanoid\src\Projectile.cpp(43,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FutureGames_SDL.vcxproj -> E:\geezer\code\C++\Arkanoid\bin\Game_Debug.exe
